@@ -236,6 +236,7 @@ div {
 }
 
 .pph{
+
   transition: 0.9s;
   position: relative;
   padding: 5px;
@@ -243,7 +244,7 @@ div {
   background-color: #a9d2ea;
   overflow: visible;
   width: 200px;
-  height:200px;
+  height:fit-content;
   font-size: 20px;
   border-bottom-left-radius: 10px;
   opacity: 0.9;
@@ -281,7 +282,7 @@ border-radius: 5px;
   background-color: #a9d2ea;
   overflow: visible;
   width: 200px;
-  height:200px;
+  height:fit-content;
   font-size: 20px;
   border-bottom-right-radius: 10px;
  
